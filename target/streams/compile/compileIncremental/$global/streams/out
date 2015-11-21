@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/dylan/projects/LintCode/Subset.java, /Users/dylan/projects/LintCode/Longest_Common_Prefix.java, /Users/dylan/projects/LintCode/Merge_Sorted_Array.java, /Users/dylan/projects/LintCode/First_Bad_Version.java, /Users/dylan/projects/LintCode/Find_Minimum_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Find_Peak_Element.java, /Users/dylan/projects/LintCode/Search_2D_Matrix.java, /Users/dylan/projects/LintCode/Anagrams.java, /Users/dylan/projects/LintCode/Two_Strings_Are_Anagrams.java, /Users/dylan/projects/LintCode/First_Position_of_Target.java, /Users/dylan/projects/LintCode/Search_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Permutations.java, /Users/dylan/projects/LintCode/Wood_Cut.java, /Users/dylan/projects/LintCode/strstr.java, /Users/dylan/projects/LintCode/Remove_Element.java, /Users/dylan/projects/LintCode/Longest_Common_Substring.java, /Users/dylan/projects/LintCode/Sqrt.java, /Users/dylan/projects/LintCode/3_Sum.java, /Users/dylan/projects/LintCode/Search_For_a_Range.java, /Users/dylan/projects/LintCode/Flip_Bits.java, /Users/dylan/projects/LintCode/Subarray_Sum.java, /Users/dylan/projects/LintCode/3_Sum_Closet.java, /Users/dylan/projects/LintCode/Product_of_Array_Exclude_itself.java, /Users/dylan/projects/LintCode/Search_Insert_Postiion.java, /Users/dylan/projects/LintCode/Partition_Array.java, /Users/dylan/projects/LintCode/First_Missing_Positive.java, /Users/dylan/projects/LintCode/2_Sum.java, /Users/dylan/projects/LintCode/PermutationsII.java, /Users/dylan/projects/LintCode/Subsets.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/dylan/projects/LintCode/Subset.java, /Users/dylan/projects/LintCode/Longest_Common_Prefix.java, /Users/dylan/projects/LintCode/Merge_Sorted_Array.java, /Users/dylan/projects/LintCode/First_Bad_Version.java, /Users/dylan/projects/LintCode/Find_Minimum_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Find_Peak_Element.java, /Users/dylan/projects/LintCode/Search_2D_Matrix.java, /Users/dylan/projects/LintCode/Anagrams.java, /Users/dylan/projects/LintCode/Two_Strings_Are_Anagrams.java, /Users/dylan/projects/LintCode/First_Position_of_Target.java, /Users/dylan/projects/LintCode/Search_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Permutations.java, /Users/dylan/projects/LintCode/Wood_Cut.java, /Users/dylan/projects/LintCode/strstr.java, /Users/dylan/projects/LintCode/Remove_Element.java, /Users/dylan/projects/LintCode/Longest_Common_Substring.java, /Users/dylan/projects/LintCode/Sqrt.java, /Users/dylan/projects/LintCode/3_Sum.java, /Users/dylan/projects/LintCode/Search_For_a_Range.java, /Users/dylan/projects/LintCode/Flip_Bits.java, /Users/dylan/projects/LintCode/Subarray_Sum.java, /Users/dylan/projects/LintCode/3_Sum_Closet.java, /Users/dylan/projects/LintCode/Product_of_Array_Exclude_itself.java, /Users/dylan/projects/LintCode/Search_Insert_Postiion.java, /Users/dylan/projects/LintCode/Partition_Array.java, /Users/dylan/projects/LintCode/First_Missing_Positive.java, /Users/dylan/projects/LintCode/2_Sum.java, /Users/dylan/projects/LintCode/PermutationsII.java, /Users/dylan/projects/LintCode/Subsets.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/dylan/projects/LintCode/Subset.java, /Users/dylan/projects/LintCode/Longest_Common_Prefix.java, /Users/dylan/projects/LintCode/Merge_Sorted_Array.java, /Users/dylan/projects/LintCode/First_Bad_Version.java, /Users/dylan/projects/LintCode/Find_Minimum_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Find_Peak_Element.java, /Users/dylan/projects/LintCode/Search_2D_Matrix.java, /Users/dylan/projects/LintCode/Anagrams.java, /Users/dylan/projects/LintCode/Two_Strings_Are_Anagrams.java, /Users/dylan/projects/LintCode/First_Position_of_Target.java, /Users/dylan/projects/LintCode/Search_in_Rotated_Sorted_Array.java, /Users/dylan/projects/LintCode/Permutations.java, /Users/dylan/projects/LintCode/Wood_Cut.java, /Users/dylan/projects/LintCode/strstr.java, /Users/dylan/projects/LintCode/Remove_Element.java, /Users/dylan/projects/LintCode/Longest_Common_Substring.java, /Users/dylan/projects/LintCode/Sqrt.java, /Users/dylan/projects/LintCode/3_Sum.java, /Users/dylan/projects/LintCode/Search_For_a_Range.java, /Users/dylan/projects/LintCode/Flip_Bits.java, /Users/dylan/projects/LintCode/Subarray_Sum.java, /Users/dylan/projects/LintCode/3_Sum_Closet.java, /Users/dylan/projects/LintCode/Product_of_Array_Exclude_itself.java, /Users/dylan/projects/LintCode/Search_Insert_Postiion.java, /Users/dylan/projects/LintCode/Partition_Array.java, /Users/dylan/projects/LintCode/First_Missing_Positive.java, /Users/dylan/projects/LintCode/2_Sum.java, /Users/dylan/projects/LintCode/PermutationsII.java, /Users/dylan/projects/LintCode/Subsets.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 29 sources: invalidated sources (29) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 29 Java sources to /Users/dylan/projects/LintCode/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@602b16c8 directly...[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/First_Bad_Version.java:31: not a statement[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/First_Bad_Version.java:31: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:20: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:20: <identifier> expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:20: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:20: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:20: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:22: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:22: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:23: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:23: <identifier> expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:23: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:23: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Sqrt.java:25: class, interface, or enum expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subarray_Sum.java:16: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subset.java:15: illegal start of expression[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subset.java:15: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subset.java:16: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subset.java:26: reached end of file while parsing[0m
+[0m[[31merror[0m] [0m/Users/dylan/projects/LintCode/Subsets.java:15: illegal start of expression[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m

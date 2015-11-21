@@ -14,13 +14,14 @@ public class Solution {
 
     	for(int i=0; i < numbers.length - 2;i++){
     		if(i != 0 && numbers[i] == numbers[i - 1]){
-    		continue;
+    			continue;
     		}
     		int left = i + 1;
     		int right = numbers.length - 1;
     		
     		while(left < right){
     			int sum = numbers[i] + numbers[left] + numbers[right];
+    			
     			if(sum == 0){
     				ArrayList<Integer> tmp = new ArrayList<Integer>();
     				tmp.add(numbers[i]);
